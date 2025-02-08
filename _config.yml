@@ -1,3 +1,8 @@
 title: "Asmaa Nasr | Data Science Portfolio"
 description: "Welcome to my portfolio! I specialize in Data Science and Machine Learning."
-theme: jekyll-theme-cayman  # You can change this theme
+author: "Asmaa Nasr"
+email: "asmaanasr186@gmail.com"
+github_username: "asmaanasr"
+linkedin_username: "asmaanasr-4a3000262"
+show_downloads: true
+theme: jekyll-theme-cayman  # Change if using another theme
